@@ -9,3 +9,10 @@ run_experiment*
 setting*
 자연어
 자연어딥러닝/26-05-13-CNN/cc.ko.300.vec
+LLM/26-06-02/step1/__pycache__
+LLM/26-06-04/t5_sentiment_results
+LLM/26-06-04/t5_lora_results
+*.pt
+LLM/26-06-04/gpt_dpo_results
+LLM/26-06-04/gpt2_sft_results
+LLM/26-06-04/gpt2_dpo_results
