@@ -28,6 +28,14 @@ LLM/26-06-10/chroma_db_vision
 Front_Back/26-06-22/demo_fastapi/__pycache__
 Front_Back/26-06-23/backend/__pycache__
 Front_Back/26-06-23/backend/__pycache__
-Django/26-06-24/todoboard/__pycache__
-Django/26-06-24/todos/__pycache__
-Django/26-06-24/todos/migrations/__pycache__
+Django/**/__pycache__
+
+# 확장자 허용
+!*.py
+!*.md
+!*.html
+!*.css
+!*.js
+!requirements.txt
+!django.conf
+!nginx.conf
